@@ -6,7 +6,7 @@
 </template>
 <script setup>
 onMounted(async () => {
-  test();
+  test2();
 });
 
 function test2() {
