@@ -2,3 +2,6 @@
 <template>
   <HelloWorld />
 </template>
+<script setup>
+test();
+</script>
